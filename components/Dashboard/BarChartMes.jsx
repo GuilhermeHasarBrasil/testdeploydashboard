@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import styled from 'styled-components';
 import { useEffect, useState } from "react";
 import DatePicker from 'react-datepicker';

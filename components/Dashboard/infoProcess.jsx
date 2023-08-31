@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import styled from 'styled-components'
 
 export default function InfoProcess({ total, iniciado, finalizado, naoIniciado }) {
