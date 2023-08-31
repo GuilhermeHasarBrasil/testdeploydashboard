@@ -1,0 +1,15 @@
+export const defaultLayout =
+  '^XA' +
+  '^CI27' +
+  '^FT27,61^A0N,38,40^FH^FDCx.:^FS' +
+  '^FT95,61^A0N,52,56^FH^FD@CX^FS' +
+  '^FT185,118^A0N,48,48^FH^FD@FURO^FS' +
+  '^FT174,177^A0N,32,32^FH^FDDe:^FS' +
+  '^FT225,177^A0N,32,32^FH^FD@DE^FS' +
+  '^FT347,177^A0N,32,32^FH^FDAte:^FS' +
+  '^FT405,177^A0N,32,32^FH^FD@ATE^FS' +
+  '^FT285,61^A0N,48,48^FH^FD@PROJETO^FS' +
+  '^FT35,230' +
+  '^BQN,5,5HSMX^FH^FDLA @QR' +
+  '^PQ1,0,1,Y' +
+  '^XZ';
